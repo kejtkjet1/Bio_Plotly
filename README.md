@@ -9,3 +9,7 @@ We honed our Javascript and Plotly skills to create data visualization for the b
 ## Final product
 
 The final project creates an interactive dash with Plotly vizualizations like the image below.
+
+
+
+![image](https://user-images.githubusercontent.com/87611145/140627760-bb69d2e7-6ac2-420e-b79a-b2da7b593f0f.png)
